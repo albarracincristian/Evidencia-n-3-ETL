@@ -80,7 +80,7 @@ El cuaderno genera:
    - Guardar los resultados de las consultas (por ejemplo, con *Export Resultset*) como evidencia del analisis.
 
 ## Referencias y proximos pasos
-- Dataset base: [Sales and Customer Data (Kaggle)](https://www.kaggle.com/datasets) *(descarga manual requerida)*.
+- Dataset base: [Sales and Customer Data (Kaggle)](https://www.kaggle.com/datasets/dataceo/sales-and-customer-data) *(descarga manual requerida)*.
 - Posibles extensiones:
   - Automatizar validaciones de calidad (valores fuera de rango, duplicados).
   - Programar la ejecucion del ETL con `cron` o `Airflow`.
