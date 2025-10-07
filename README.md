@@ -83,5 +83,4 @@ El cuaderno genera:
 - Dataset base: [Sales and Customer Data (Kaggle)](https://www.kaggle.com/datasets/dataceo/sales-and-customer-data) *(descarga manual requerida)*.
 - Posibles extensiones:
   - Automatizar validaciones de calidad (valores fuera de rango, duplicados).
-  - Programar la ejecucion del ETL con `cron` o `Airflow`.
   - Ampliar el EDA con series temporales y segmentacion de clientes.
