@@ -26,8 +26,8 @@ Los archivos deben ubicarse en `data/` antes de ejecutar el cuaderno. Cada fila 
    ```
 3. (Opcional) Crear un archivo `.env` con credenciales de MySQL:
    ```
-   DB_USER=tu_usuario
-   DB_PASS=tu_password
+   DB_USER=root
+   DB_PASS=329158
    DB_HOST=127.0.0.1
    DB_PORT=3306
    DB_NAME=etl_ventas
