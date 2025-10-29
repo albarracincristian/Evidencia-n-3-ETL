@@ -1,8 +1,8 @@
--- DDL básico y consultas ejemplo para MariaDB/MySQL
+-- DDL básico y consultas ejemplo para MySQL
 CREATE DATABASE IF NOT EXISTS etl_ventas;
 USE etl_ventas;
 
--- Tabla destino (ajuste tipos según su CSV)
+-- Tabla destino 
 DROP TABLE IF EXISTS ventas_clientes_clean;
 CREATE TABLE ventas_clientes_clean (
     customer_id        VARCHAR(64),

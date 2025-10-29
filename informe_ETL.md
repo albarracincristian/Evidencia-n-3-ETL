@@ -28,7 +28,7 @@
 - Explique si aplica restricciones de integridad.
 
 ## 4. Carga a BD relacional y consultas SQL
-- SGBD: MariaDB/MySQL.
+- SGBD: MySQL.
 - Esquema y tabla: `etl_ventas.ventas_clientes_clean`.
 - Adjunte **DDL** y **consultas SQL** que replican lo del punto 2.
 
